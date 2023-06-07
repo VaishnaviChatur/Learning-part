@@ -1,0 +1,6 @@
+.ram {
+    width: 100vw;
+    height: 100vh;
+    /* background-color: aqua; */
+    border: 2px solid black;
+}
